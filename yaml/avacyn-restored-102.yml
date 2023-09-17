@@ -1,0 +1,112 @@
+---
+object: card
+id: 4cd54279-57f5-4cd9-b524-4f094bd2fc36
+oracle_id: 8f933fae-6c0c-42d7-a817-14760d8285cd
+multiverse_ids:
+- 240134
+mtgo_id: 44049
+mtgo_foil_id: 44050
+tcgplayer_id: 58373
+cardmarket_id: 254455
+name: Exquisite Blood
+lang: en
+released_at: '2012-05-04'
+uri: https://api.scryfall.com/cards/4cd54279-57f5-4cd9-b524-4f094bd2fc36
+scryfall_uri: https://scryfall.com/card/avr/102/exquisite-blood?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/c/4cd54279-57f5-4cd9-b524-4f094bd2fc36.jpg?1592708866
+  normal: https://cards.scryfall.io/normal/front/4/c/4cd54279-57f5-4cd9-b524-4f094bd2fc36.jpg?1592708866
+  large: https://cards.scryfall.io/large/front/4/c/4cd54279-57f5-4cd9-b524-4f094bd2fc36.jpg?1592708866
+  png: https://cards.scryfall.io/png/front/4/c/4cd54279-57f5-4cd9-b524-4f094bd2fc36.png?1592708866
+  art_crop: https://cards.scryfall.io/art_crop/front/4/c/4cd54279-57f5-4cd9-b524-4f094bd2fc36.jpg?1592708866
+  border_crop: https://cards.scryfall.io/border_crop/front/4/c/4cd54279-57f5-4cd9-b524-4f094bd2fc36.jpg?1592708866
+mana_cost: "{4}{B}"
+cmc: 5.0
+type_line: Enchantment
+oracle_text: Whenever an opponent loses life, you gain that much life.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: '039810a9-92d7-4f2d-b2d0-ca661ac586c0'
+set: avr
+set_name: Avacyn Restored
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/039810a9-92d7-4f2d-b2d0-ca661ac586c0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aavr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/avr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4cd54279-57f5-4cd9-b524-4f094bd2fc36/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8f933fae-6c0c-42d7-a817-14760d8285cd&unique=prints
+collector_number: '102'
+digital: false
+rarity: rare
+flavor_text: Even as humans regained the upper hand, some still willingly traded their
+  lives for a chance at immortality.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Cynthia Sheppard
+artist_ids:
+- 9dfbdd58-65e6-40cf-951a-80e141061939
+illustration_id: a7ca3865-64dd-4bab-b93d-98cb5a32947b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 635
+penny_rank: 7851
+prices:
+  usd: '30.27'
+  usd_foil: '51.61'
+  usd_etched: 
+  eur: '26.11'
+  eur_foil: '20.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240134
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Exquisite+Blood&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Exquisite+Blood&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Exquisite+Blood
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/58373?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Exquisite+Blood&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/44049?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

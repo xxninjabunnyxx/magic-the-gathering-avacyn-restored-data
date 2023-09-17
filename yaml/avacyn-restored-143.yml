@@ -1,0 +1,115 @@
+---
+object: card
+id: 73e72249-84ea-4e9c-9f64-b67b02ffdf3a
+oracle_id: 3e261fa8-1256-4525-8115-5880758338fe
+multiverse_ids:
+- 240093
+mtgo_id: 44003
+mtgo_foil_id: 44004
+tcgplayer_id: 58945
+cardmarket_id: 254676
+name: Kruin Striker
+lang: en
+released_at: '2012-05-04'
+uri: https://api.scryfall.com/cards/73e72249-84ea-4e9c-9f64-b67b02ffdf3a
+scryfall_uri: https://scryfall.com/card/avr/143/kruin-striker?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/3/73e72249-84ea-4e9c-9f64-b67b02ffdf3a.jpg?1592709126
+  normal: https://cards.scryfall.io/normal/front/7/3/73e72249-84ea-4e9c-9f64-b67b02ffdf3a.jpg?1592709126
+  large: https://cards.scryfall.io/large/front/7/3/73e72249-84ea-4e9c-9f64-b67b02ffdf3a.jpg?1592709126
+  png: https://cards.scryfall.io/png/front/7/3/73e72249-84ea-4e9c-9f64-b67b02ffdf3a.png?1592709126
+  art_crop: https://cards.scryfall.io/art_crop/front/7/3/73e72249-84ea-4e9c-9f64-b67b02ffdf3a.jpg?1592709126
+  border_crop: https://cards.scryfall.io/border_crop/front/7/3/73e72249-84ea-4e9c-9f64-b67b02ffdf3a.jpg?1592709126
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Creature — Human Warrior
+oracle_text: Whenever another creature enters the battlefield under your control,
+  Kruin Striker gets +1/+0 and gains trample until end of turn.
+power: '2'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: '039810a9-92d7-4f2d-b2d0-ca661ac586c0'
+set: avr
+set_name: Avacyn Restored
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/039810a9-92d7-4f2d-b2d0-ca661ac586c0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aavr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/avr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/73e72249-84ea-4e9c-9f64-b67b02ffdf3a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3e261fa8-1256-4525-8115-5880758338fe&unique=prints
+collector_number: '143'
+digital: false
+rarity: common
+flavor_text: Unhappy with the creation of the wolfir, Rorica broke with her order
+  and led a crusade against the "reformed werewolves."
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: aa38a482-ae1b-47b0-b48d-dc1aa135c6d1
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18080
+penny_rank: 14412
+prices:
+  usd: '0.05'
+  usd_foil: '0.23'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.35'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240093
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kruin+Striker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kruin+Striker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kruin+Striker
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/58945?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kruin+Striker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/44003?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

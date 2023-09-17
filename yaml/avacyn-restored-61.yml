@@ -1,0 +1,114 @@
+---
+object: card
+id: 42506c54-e9bf-4d0f-8dd5-8b218668c925
+oracle_id: 5bbcfb73-cccc-47b0-81ae-17eb7c33ff5e
+multiverse_ids:
+- 271117
+mtgo_id: 44199
+mtgo_foil_id: 44200
+tcgplayer_id: 58369
+cardmarket_id: 254454
+name: Infinite Reflection
+lang: en
+released_at: '2012-05-04'
+uri: https://api.scryfall.com/cards/42506c54-e9bf-4d0f-8dd5-8b218668c925
+scryfall_uri: https://scryfall.com/card/avr/61/infinite-reflection?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/2/42506c54-e9bf-4d0f-8dd5-8b218668c925.jpg?1592708599
+  normal: https://cards.scryfall.io/normal/front/4/2/42506c54-e9bf-4d0f-8dd5-8b218668c925.jpg?1592708599
+  large: https://cards.scryfall.io/large/front/4/2/42506c54-e9bf-4d0f-8dd5-8b218668c925.jpg?1592708599
+  png: https://cards.scryfall.io/png/front/4/2/42506c54-e9bf-4d0f-8dd5-8b218668c925.png?1592708599
+  art_crop: https://cards.scryfall.io/art_crop/front/4/2/42506c54-e9bf-4d0f-8dd5-8b218668c925.jpg?1592708599
+  border_crop: https://cards.scryfall.io/border_crop/front/4/2/42506c54-e9bf-4d0f-8dd5-8b218668c925.jpg?1592708599
+mana_cost: "{5}{U}"
+cmc: 6.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature
+  When Infinite Reflection enters the battlefield attached to a creature, each other nontoken creature you control becomes a copy of that creature.
+  Nontoken creatures you control enter the battlefield as a copy of enchanted creature.
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: '039810a9-92d7-4f2d-b2d0-ca661ac586c0'
+set: avr
+set_name: Avacyn Restored
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/039810a9-92d7-4f2d-b2d0-ca661ac586c0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aavr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/avr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/42506c54-e9bf-4d0f-8dd5-8b218668c925/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5bbcfb73-cccc-47b0-81ae-17eb7c33ff5e&unique=prints
+collector_number: '61'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Igor Kieryluk
+artist_ids:
+- 9c3e9d17-509f-485c-9360-46d897ce716b
+illustration_id: 43e36eec-9e9f-4c1c-acbd-67e0c36574c4
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11671
+penny_rank: 8757
+prices:
+  usd: '0.23'
+  usd_foil: '0.89'
+  usd_etched: 
+  eur: '1.00'
+  eur_foil: '0.49'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271117
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Infinite+Reflection&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Infinite+Reflection&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Infinite+Reflection
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/58369?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Infinite+Reflection&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/44199?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
